@@ -7,6 +7,7 @@ assignees: ""
 ---
 
 ## Contributor Checklist
+
 - [ ] I have read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 - [ ] I have followed the [Code of Conduct](../../CODE_OF_CONDUCT.md)
 - [ ] My code is well-documented and tested
@@ -14,6 +15,7 @@ assignees: ""
 - [ ] I have provided a clear PR description
 
 ## Maintainer Checklist
+
 - [ ] Code review completed
 - [ ] All tests pass
 - [ ] Documentation updated
@@ -21,4 +23,4 @@ assignees: ""
 
 ---
 
-*Thank you for contributing to LearnVault!*
+_Thank you for contributing to LearnVault!_
